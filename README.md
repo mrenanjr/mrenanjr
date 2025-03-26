@@ -1,7 +1,7 @@
 ### Hello, I'm Renan Júnior. Welcome!
 
 <p>
-I am a FullStack developer, with more than 6 years of experience in web development and also in the development of crawlers/scrapers. I worked on projects providing maintenance, developing new features and applications, and also searching for information on the web using crawlers. I am interested in always staying up to date by looking for new opportunities that use current batteries that are on the market.
+I am a FullStack developer, with more than 7 years of experience in web development and also in the development of crawlers/scrapers. I worked on projects providing maintenance, developing new features and applications, and also searching for information on the web using crawlers. I am interested in always staying up to date by looking for new opportunities that use current batteries that are on the market.
 </p>
 
 <img
